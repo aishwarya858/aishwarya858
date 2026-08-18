@@ -9,7 +9,7 @@
 ### ⚡ About Me
 
 * 🤖 **Status:** 2nd-year Computer Science Engineering student.
-* 🛠️ **Current Tooling:** Exploring full stack web development, building one project at a time.
+* 🛠️ **Current Tooling:** Exploring full stack web development by building one project at a time.
 * 🌱 **Learning Rate:** Always learning and getting better.
 
 
