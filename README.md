@@ -5,16 +5,6 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Inquisitive+Student+Developer;Full-Stack+Explorer" alt="Typing SVG" />
     </a>
 </p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/aishwarya-a-s09/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-    </a>
-     <a href="mailto:aishwaryaas009@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-    </a>
-</p>
-
 ---
 
 ### ⚡ About Me
@@ -24,4 +14,6 @@
 * 🌱 **Learning Rate:** Always learning and getting better.
 
 ---
-
+#### 🔗 Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/aishwarya-a-s09/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aishwaryaas009@gmail.com)
